@@ -11,6 +11,8 @@ https://forum.freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s905
 https://www.youtube.com/watch?v=9GJSzRgtrnE
 
 
+http://firmware.duckdns.org/
+
 tools
 https://androidmtk.com/use-amlogic-usb-burning-tool
 
