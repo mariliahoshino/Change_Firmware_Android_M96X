@@ -33,3 +33,6 @@ https://forum.atvxperience.com/
 
 
 https://www.youtube.com/watch?v=qSdD7_C-Pak
+
+
+http://openlinux.amlogic.com/Android/Mbox
